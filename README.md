@@ -26,6 +26,8 @@ In this exercise, you will:
 5. Apply changes
 6. Merge your pull request
 
+### Dummy text for screnshot purpose
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
