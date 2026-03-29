@@ -26,7 +26,7 @@ In this exercise, you will:
 5. Apply changes
 6. Merge your pull request
 
-### Dummy text for screnshot purpose
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑‍🚀!</h2>
 
 ### How to start this exercise
 
